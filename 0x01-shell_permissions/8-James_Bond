@@ -1,2 +1,4 @@
 #!/bin/bash
 chmod 007 hello
+[master 20da5c9] another 8th commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
